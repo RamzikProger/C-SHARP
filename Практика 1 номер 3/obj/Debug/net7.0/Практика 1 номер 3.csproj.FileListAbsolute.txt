@@ -1,0 +1,15 @@
+C:\Users\Рамазанчик\Desktop\Рамазан\Академия ТОП\Практика 1 номер 3\bin\Debug\net7.0\Практика 1 номер 3.exe
+C:\Users\Рамазанчик\Desktop\Рамазан\Академия ТОП\Практика 1 номер 3\bin\Debug\net7.0\Практика 1 номер 3.deps.json
+C:\Users\Рамазанчик\Desktop\Рамазан\Академия ТОП\Практика 1 номер 3\bin\Debug\net7.0\Практика 1 номер 3.runtimeconfig.json
+C:\Users\Рамазанчик\Desktop\Рамазан\Академия ТОП\Практика 1 номер 3\bin\Debug\net7.0\Практика 1 номер 3.dll
+C:\Users\Рамазанчик\Desktop\Рамазан\Академия ТОП\Практика 1 номер 3\bin\Debug\net7.0\Практика 1 номер 3.pdb
+C:\Users\Рамазанчик\Desktop\Рамазан\Академия ТОП\Практика 1 номер 3\obj\Debug\net7.0\Практика 1 номер 3.csproj.AssemblyReference.cache
+C:\Users\Рамазанчик\Desktop\Рамазан\Академия ТОП\Практика 1 номер 3\obj\Debug\net7.0\Практика 1 номер 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рамазанчик\Desktop\Рамазан\Академия ТОП\Практика 1 номер 3\obj\Debug\net7.0\Практика 1 номер 3.AssemblyInfoInputs.cache
+C:\Users\Рамазанчик\Desktop\Рамазан\Академия ТОП\Практика 1 номер 3\obj\Debug\net7.0\Практика 1 номер 3.AssemblyInfo.cs
+C:\Users\Рамазанчик\Desktop\Рамазан\Академия ТОП\Практика 1 номер 3\obj\Debug\net7.0\Практика 1 номер 3.csproj.CoreCompileInputs.cache
+C:\Users\Рамазанчик\Desktop\Рамазан\Академия ТОП\Практика 1 номер 3\obj\Debug\net7.0\Практика 1 номер 3.dll
+C:\Users\Рамазанчик\Desktop\Рамазан\Академия ТОП\Практика 1 номер 3\obj\Debug\net7.0\refint\Практика 1 номер 3.dll
+C:\Users\Рамазанчик\Desktop\Рамазан\Академия ТОП\Практика 1 номер 3\obj\Debug\net7.0\Практика 1 номер 3.pdb
+C:\Users\Рамазанчик\Desktop\Рамазан\Академия ТОП\Практика 1 номер 3\obj\Debug\net7.0\Практика 1 номер 3.genruntimeconfig.cache
+C:\Users\Рамазанчик\Desktop\Рамазан\Академия ТОП\Практика 1 номер 3\obj\Debug\net7.0\ref\Практика 1 номер 3.dll
